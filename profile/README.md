@@ -16,4 +16,4 @@ Across all upcoming SetCore infrastructure components and software packages, we 
 We believe in predictable, well-designed software architectures. All core components under the SetCore brand are developed publicly with comprehensive documentation, architecture decision records (ADRs), and strict static linting pipelines.
 
 ---
-🌐 [Website](https://setcore.io) · 🛡️ [Security Policy](./SECURITY.md)
+🌐 [Website](https://setcore.io) · 🛡️ [Security Policy](../SECURITY.md)
